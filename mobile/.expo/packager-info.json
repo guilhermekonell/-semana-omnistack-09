@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 5868,
+  "expoServerNgrokUrl": "https://t7-rbc.anonymous.mobile.exp.direct",
+  "packagerNgrokUrl": "https://packager.t7-rbc.anonymous.mobile.exp.direct",
+  "ngrokPid": 12360,
+  "devToolsPort": 19002
+}
